@@ -1,0 +1,10 @@
+.containerCards {
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    font-size: 1.5rem;
+}

@@ -1,0 +1,32 @@
+.containerDetail {
+    display: flex;
+    border: 1px solid;
+    border-radius: 20px;
+    width: 50%;
+    margin: 0 auto;
+    -webkit-box-shadow: 6px 8px 27px -3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 6px 8px 27px -3px rgba(0, 0, 0, 0.75);
+    box-shadow: 6px 8px 27px -3px rgba(0, 0, 0, 0.75);
+}
+
+.containerImage {
+    width: 50%;
+}
+
+.image {
+    width: 100%;
+    border-radius: 20px 0 0 20px;
+}
+
+.containerTitle {
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.title {
+    color: black;
+    margin: 0;
+}
